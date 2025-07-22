@@ -1,1 +1,1 @@
-// Main JS file placeholder
+<script src="main.js"></script>
